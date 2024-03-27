@@ -6,17 +6,17 @@ For development, Node.js needs to be installed.
 
 ## Install
 
-    $ git clone https://github.com/ORG/PROJECT.git
-    $ cd PROJECT
-    $ npm install
+    git clone https://github.com/ORG/PROJECT.git
+    cd PROJECT
+    npm install
 
 ## Start - for development
 
-    $ npm start
+    npm start
 
 ## Build - for production
 
-    $ npm run build
+    npm run build
 
 ## Deploy
 
@@ -24,9 +24,9 @@ Copy all the files in the "build" directory to the root folder on a static host
 
 ## Multi Level Navigation
 
-Audio Bible multi level hierarchical navigation. 
+Audio Bible multi level hierarchical navigation.
 
-Here is how the demo of such a conceptual navigation  looks like *(initial level: 10 top level pictures introducing the whole Bible, as stories to listen to)*:
+Here is how the demo of such a conceptual navigation looks like *(initial level: 10 top level pictures introducing the whole Bible, as stories to listen to)*:
 
 <img alt="Bible-level1.png" src="assets/Bible-level1.png" width="" height="">&nbsp;
 
